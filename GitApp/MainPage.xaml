@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock Text="Hello Priya!!"
+        <TextBlock Text="Master Commit 1"
                    FontSize="24"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>
