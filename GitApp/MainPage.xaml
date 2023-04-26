@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock Text="Hello Hema!!"
+        <TextBlock Text="Hello pakki!!"
                    FontSize="24"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>
